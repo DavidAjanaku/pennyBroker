@@ -1,0 +1,816 @@
+Uri: https://tokrix.netlify.app/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/fonts/font-awesome/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\fonts\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/fonts/webfont/cryptocoins.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\fonts\webfont\cryptocoins.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/images/apple-touch-icon-114-precomposed.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\images\apple-touch-icon-114-precomposed.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/assets/images/apple-touch-icon-144-precomposed.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\images\apple-touch-icon-144-precomposed.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/assets/images/apple-touch-icon-57-precomposed.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\images\apple-touch-icon-57-precomposed.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/assets/images/apple-touch-icon-72-precomposed.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\images\apple-touch-icon-72-precomposed.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/assets/js/chart-chartjs.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\chart-chartjs.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/chart-echarts.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\chart-echarts.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/chart-flot.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\chart-flot.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/chart-morris.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\chart-morris.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/chart-sparkline.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\chart-sparkline.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/form-validation.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\form-validation.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/jquery-1.11.2.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\jquery-1.11.2.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/messenger.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\messenger.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/scripts.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/js/trade-view-dashboard.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\js\trade-view-dashboard.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/autosize/autosize.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\autosize\autosize.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap-wizard\jquery.bootstrap.wizard.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap/css/bootstrap-theme.min.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap\css\bootstrap-theme.min.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap3-wysihtml5/css/bootstrap3-wysihtml5.min.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap3-wysihtml5\css\bootstrap3-wysihtml5.min.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/bootstrap3-wysihtml5/js/bootstrap3-wysihtml5.all.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\bootstrap3-wysihtml5\js\bootstrap3-wysihtml5.all.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/chartjs-chart/Chart.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\chartjs-chart\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/echarts/echarts-all.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\echarts\echarts-all.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/echarts/echarts-custom-for-dashboard.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\echarts\echarts-custom-for-dashboard.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.crosshair.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.crosshair.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.fillbetween.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.fillbetween.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.navigate.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.navigate.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.pie.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.selection.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.selection.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.stack.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.stack.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/flot-chart/jquery.flot.time.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\flot-chart\jquery.flot.time.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/icheck/icheck.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\icheck\icheck.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/icheck/skins/all.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\icheck\skins\all.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/icheck/skins/minimal/minimal.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\icheck\skins\minimal\minimal.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/icheck/skins/minimal/white.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\icheck\skins\minimal\white.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/ico/create-highcarts.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\ico\create-highcarts.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/ico/highcharts.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\ico\highcharts.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/jquery-ui/smoothness/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jquery-ui\smoothness\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/jquery-ui/smoothness/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jquery-ui\smoothness\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/jquery-validation/js/additional-methods.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jquery-validation\js\additional-methods.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/jquery-validation/js/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jquery-validation\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/jvectormap/jquery-jvectormap-2.0.1.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jvectormap\jquery-jvectormap-2.0.1.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/jvectormap/jquery-jvectormap-2.0.1.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jvectormap\jquery-jvectormap-2.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/jvectormap/jquery-jvectormap-world-mill-en.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\jvectormap\jquery-jvectormap-world-mill-en.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/messenger/css/messenger-theme-flat.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\messenger\css\messenger-theme-flat.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/messenger/css/messenger-theme-future.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\messenger\css\messenger-theme-future.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/messenger/css/messenger.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\messenger\css\messenger.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/messenger/js/messenger-theme-future.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\messenger\js\messenger-theme-future.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/messenger/js/messenger.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\messenger\js\messenger.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/morris-chart/css/morris.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\morris-chart\css\morris.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/morris-chart/js/morris.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\morris-chart\js\morris.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/morris-chart/js/raphael-min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\morris-chart\js\raphael-min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/pace/pace-theme-flash.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\pace\pace-theme-flash.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/pace/pace.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\pace\pace.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/perfect-scrollbar/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\perfect-scrollbar\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/perfect-scrollbar/perfect-scrollbar.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\perfect-scrollbar\perfect-scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/sparkline-chart/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\sparkline-chart\jquery.sparkline.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/tagsinput/css/bootstrap-tagsinput.css
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\tagsinput\css\bootstrap-tagsinput.css
+Content Type: text/css
+
+Uri: https://tokrix.netlify.app/assets/plugins/tagsinput/js/bootstrap-tagsinput.min.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\tagsinput\js\bootstrap-tagsinput.min.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/assets/plugins/viewport/viewportchecker.js
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\assets\plugins\viewport\viewportchecker.js
+Content Type: application/javascript
+
+Uri: https://tokrix.netlify.app/data/dashelements/affiliate-img.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\dashelements\affiliate-img.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/dashelements/attach-1.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\dashelements\attach-1.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/-ico-lg.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\-ico-lg.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/-ico-so.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\-ico-so.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/-ico-sw.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\-ico-sw.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/affailites.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\affailites.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/backup.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\backup.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/buy-icon-lg.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\buy-icon-lg.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/buy-icon-so.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\buy-icon-so.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/buy-icon-sw.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\buy-icon-sw.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/coins.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\coins.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/default-avatar.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\default-avatar.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/email-verification.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\email-verification.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/exchange-arrows.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\exchange-arrows.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/exchange-icon-lg.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\exchange-icon-lg.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/exchange-icon-so.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\exchange-icon-so.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/exchange-icon-sw.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\exchange-icon-sw.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/home-location.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\home-location.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i1.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i1.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i2.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i2.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i3.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i3.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i4.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i4.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i5.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i5.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/i6.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\i6.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/id-card.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\id-card.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/level1.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\level1.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/level2.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\level2.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/level3.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\level3.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/level4.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\level4.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/padlock.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\padlock.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/pass-hint.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\pass-hint.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/qr.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\qr.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sec-level1.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sec-level1.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sec-level2.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sec-level2.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sec-level3.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sec-level3.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sell-icon-lg.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sell-icon-lg.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sell-icon-so.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sell-icon-so.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/sell-icon-sw.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\sell-icon-sw.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/signup.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\signup.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/two-factor.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\two-factor.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/upload-id.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\upload-id.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/icons/wallet-o.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\icons\wallet-o.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/block-io.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\block-io.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/blockchain.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\blockchain.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/coingate.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\coingate.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/coinpayment.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\coinpayment.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/paypal.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\paypal.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/perfect-money.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\perfect-money.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/skrill.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\skrill.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/payment-gateways/stripe.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\payment-gateways\stripe.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/profile/avatar-1.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\avatar-1.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/profile/avatar-2.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\avatar-2.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/profile/avatar-3.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\avatar-3.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/profile/avatar-4.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\avatar-4.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/profile/avatar-5.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\avatar-5.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/data/profile/profile-blog.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\profile-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/profile/profile-crm.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\profile-crm.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/profile/profile.jpg
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\profile.jpg
+Content Type: image/jpeg
+
+Uri: https://tokrix.netlify.app/data/profile/user.png
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\data\profile\user.png
+Content Type: image/png
+
+Uri: https://tokrix.netlify.app/html-dashboard/account-confirmation.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\account-confirmation.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/affailite-program.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\affailite-program.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/buy-and-sell.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\buy-and-sell.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-chartjs-bar.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-chartjs-bar.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-chartjs-line.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-chartjs-line.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-chartjs-pie-donut.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-chartjs-pie-donut.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-echart-bar.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-echart-bar.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-echart-line.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-echart-line.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-flot-area.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-flot-area.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-flot-line.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-flot-line.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-morris-area.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-morris-area.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-morris-bar.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-morris-bar.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-morris-line.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-morris-line.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-morris-pie.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-morris-pie.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-sparkline-bar.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-sparkline-bar.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-sparkline-composite.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-sparkline-composite.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/charts-sparkline-line.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\charts-sparkline-line.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/chat-api.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\chat-api.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/chat-windows.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\chat-windows.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-elements-grid.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-elements-grid.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-elements-icheck.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-elements-icheck.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-elements-premade.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-elements-premade.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-elements.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-elements.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-validation.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-validation.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/form-wizard.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\form-wizard.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/index-dashboard.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\index-dashboard.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/index-ico-admin.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\index-ico-admin.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/index-ico-user.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\index-ico-user.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/index-trading-view.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\index-trading-view.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-boxed-chat.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-boxed-chat.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-boxed-collapsed.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-boxed-collapsed.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-boxed.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-boxed.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-chat.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-chat.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-collapsed.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-collapsed.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/layout-default.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\layout-default.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-compose.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-compose.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-drafts.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-drafts.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-important.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-important.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-inbox.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-inbox.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-sent.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-sent.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-trash.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-trash.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/mail-view.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\mail-view.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/my-wallet.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\my-wallet.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/payment-gateways.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\payment-gateways.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/security.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\security.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/settings.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\settings.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-404.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-404.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-accordion.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-accordion.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-alerts.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-alerts.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-breadcrumbs.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-breadcrumbs.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-buttons.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-buttons.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-dropdowns.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-dropdowns.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-faq.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-faq.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-fontawesome.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-fontawesome.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-glyphicons.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-glyphicons.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-grids.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-grids.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-group-list.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-group-list.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-icons.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-icons.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-labels-badges.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-labels-badges.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-login.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-login.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-modals.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-modals.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-navbars.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-navbars.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-notifications.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-notifications.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-pagination.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-pagination.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-panels.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-panels.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-popovers.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-popovers.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-pricing-expanded.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-pricing-expanded.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-pricing-narrow.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-pricing-narrow.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-profile.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-profile.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-progress.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-progress.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-register.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-register.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-support.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-support.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-tabs.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-tabs.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-timeline-centered.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-timeline-centered.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-timeline-left.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-timeline-left.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-tooltips.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-tooltips.html
+Content Type: text/html
+
+Uri: https://tokrix.netlify.app/html-dashboard/ui-typography.html
+File Name: C:\Downloaded Web Sites\tokrix.netlify.app\html-dashboard\ui-typography.html
+Content Type: text/html
+
