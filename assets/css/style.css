@@ -3036,7 +3036,7 @@ ul.quick-link-list li a:hover:after {
 
 .image-style-2-wrapper .image-two-des p {
 	color: #333;
-	font-size: 17px;
+	font-size: 14px;
 	margin: 30px 0;
 }
 
@@ -3049,7 +3049,7 @@ ul.quick-link-list li a:hover:after {
 .image-style-2-inner .image-two {
 	background-color: rgb(243, 246, 248);
 	padding: 80px 40px 40px;
-	width: 50%;
+	width: 90%;
 	position: relative;
 	top: 0;
 	height: 498px;
