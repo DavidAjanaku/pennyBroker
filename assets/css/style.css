@@ -760,7 +760,7 @@ fieldset {
 /* logo area */
 
 .logo-area {
-	padding: 35px 0;
+	padding: 0px 0;
 }
 
 .logo-area .header-info-box {
@@ -4729,6 +4729,8 @@ P.drop-cap:first-letter {
 }
 .main-header.header-3 .mainmenu-area .navbar-nav .nav-link {
 	color: #333;
+	font-weight: 500;
+	font-size: 12px;
 }
 .main-header.header-3 .mainmenu-area .navbar ul li a:hover {
 	color: #2c5ef0;
