@@ -57,6 +57,13 @@
 		.navbar-nav {
   
     align-items: center;
+
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: 264px;
 }
 	</style>
 
@@ -67,84 +74,141 @@
 	<!-- END PRELOADER --> 
 	
 	<!-- START HEADER SECTION -->
-	<header class="main-header header-3">
+	<header class="main-header header-1">
 		<!-- START TOP AREA -->
-		<!-- <div class="top-area">
+		<div class="top-area">
 			<div class="auto-container">
 				<div class="row">
-					<div class="col-12 text-center p-3">				
-						<p>Welcome to PennyBroker  <a href="pages/ui-login.html">Login</a> & <a href="pages/ui-register.html">Register</a></p>
+					
+					<!-- end col -->
+					<div class="col-lg-4 col-md-12 col-sm-12 col-12">
+						<div class="info-menu">
+							<ul>
+								<li><a href="pages/ui-login.html"><i class="icofont icofont-login"></i> Login </a></li>
+								<li><a href="pages/ui-register.html"><i class="icofont icofont-user-alt-5"></i> Register </a></li>
+								<li><a href="pages/faq.html"><i class="icofont icofont-hand-drag2"></i> Help </a></li>
+								<li><a href="pages/contact.html"><i class="icofont icofont-live-support"></i> Support </a></li>
+							</ul>
+						</div>
 					</div> 
 					<!-- end col -->
 				</div>
 			</div>
-		</div> 
+		</div>
 		<!-- END TOP AREA -->
 
 		<!-- START LOGO AREA -->
 		<div class="logo-area">
 			<div class="auto-container">
 				<div class="row">
-					<div class="col-lg-4 col-md-3 col-sm-6 col-7 mx-auto pl-0 mb-lg-0 mb-5">
+					<div class="col-lg-5 col-md-3 col-sm-6 col-7 mx-auto pl-0 mb-lg-0 mb-5">
 						<div class="logo">
-							<a href="index.html">
-							   <img class="img-fluid" src="assets/img/logo.png" alt="">
+							<a href="../index.html">
+							   <img class="img-fluid" src="../assets/img/logo.png" alt="" style="height: 82px;">
 							</a>
 						</div>
 					</div>
 					<!-- end col -->
-					<div class="col-lg-8 col-md-12 col-sm-12 col-12">
-						<div class="mainmenu-area">
-							<div class="auto-container">
-								<div class="row">
-									<div class="d-none d-lg-block d-md-none">
-										<nav class="navbar navbar-expand-lg justify-content-left">
-											<ul class="navbar-nav">
-											   <a href="index.html" class="active nav-link">Home</a>
-													<ul class="dropdown-menu">
-														<!-- <li><a href="index.html">Home 1</a></li>
-														<li><a href="index-2.html">Home 2</a></li> -->
-														<li><a href="index.html">Home 3</a></li>
-														<!-- <li><a href="index-4.html">Home 4</a></li> -->
-													</ul>
-												</li>
-												<a class="nav-link" href="pages/about.html">About Us</a>
-													<!-- <ul class="dropdown-menu">
-														<li><a href="about.html">About Us</a></li>
-														<li><a href="team.html">Our Team</a></li>
-														<li><a href="single-team.html">Team Single</a></li>
-														<li><a href="gallery.html">Gallery</a></li>
-														<li><a href="pricing.html">Our Pricing</a></li>
-														<li><a href="faq.html">FAQ</a></li>
-														<li><a href="error.html">404</a></li>
-													</ul> -->
-												</li>
-												<a href="pages/faq.html" class="nav-link">FAQ</a>
-													<!-- <ul class="dropdown-menu">
-														<li><a href="service.html">Our All Services</a></li>
-														<li><a href="single-service.html">Bitcoin Trading</a></li>
-														<li><a href="single-service.html">Coin Buy & Sell</a></li>
-														<li><a href="single-service.html">Bitcoin & Ethereum</a></li>
-														<li><a href="single-service.html">Cryptocurrency</a></li>
-													</ul> -->
-												</li>
-												<a href="pages/contact.html" class="nav-link">contact</a>
-												
-												</li>
-												
-												<a  href="pages/ui-register.html" class="nav-link btn-filled btn-style border-radius">Sign Up</a></li>
-											</ul>
-										</nav>
-									</div>
-								</div>
+					<div class="col-lg-7 col-md-12 col-sm-12 col-12">
+						<div class="header-info-box">
+                            <div class="header-info-icon">
+								<i class="fa fa-envelope-open"></i>
 							</div>
-						</div>
+							<p>Email Us</p>
+                            <h6>info@yoursite.com</h6>
+                        </div>
+						<div class="header-info-box">
+                            <div class="header-info-icon">
+								<i class="icofont icofont-phone"></i>
+							</div>
+							<p>Call Us</p>
+                            <h6>+1 870 686 6591</h6>
+                        </div>
+						<div class="header-info-box">
+                            <a href="pages/ui-register.html" class="quote-btn">Get Started <i class="icofont icofont-caret-right"></i></a>
+                        </div>
 					</div>
 					<!-- end col -->
 				</div>
 			</div>
 		</div>
-		<!-- END LOGO AREA -->	
+		<!-- END LOGO AREA -->
+
+		<!-- START NAVIGATION AREA -->
+		<div class="sticky-menu">
+			<div class="mainmenu-area">
+				<div class="auto-container">
+					<div class="row">
+						<div class="col-lg-9 d-none d-lg-block d-md-none">
+							<nav class="navbar navbar-expand-lg justify-content-left">
+								<ul class="navbar-nav">
+								   <li class="active"><a href="index.html" class=" active nav-link">Home</a>
+										<ul class="dropdown-menu">
+											<!-- <li><a href="index.html">Home 1</a></li>
+											<li><a href="index-2.html">Home 2</a></li> -->
+											<!-- <li><a href="../index.html">Home </a></li> -->
+											<!-- <li><a href="index-4.html">Home 4</a></li> -->
+										</ul>
+									</li>
+									<li class=""><a class=" nav-link" href="pages/about.html">About</a>
+										<ul class="dropdown-menu">
+											<!-- <li><a href="about.html">About Us</a></li>
+											<li><a href="team.html">Our Team</a></li>
+											<li><a href="single-team.html">Team Single</a></li>
+											<li><a href="gallery.html">Gallery</a></li>
+											<li><a href="pricing.html">Our Pricing</a></li>
+											<li><a href="faq.html">FAQ</a></li>
+											<li><a href="error.html">404</a></li> -->
+										</ul>
+									</li>
+									<li class=""><a href="pages/faq.html" class="nav-link">FAQ</a>
+										<!-- <ul class="dropdown-menu">
+											<li><a href="service.html">Our All Services</a></li>
+											<li><a href="single-service.html">Bitcoin Trading</a></li>
+											<li><a href="single-service.html">Coin Buy & Sell</a></li>
+											<li><a href="single-service.html">Bitcoin & Ethereum</a></li>
+											<li><a href="single-service.html">Cryptocurrency</a></li>
+										</ul> -->
+									</li>
+									<!-- <li class="dropdown"><a href="service.html" class="nav-link">Shop</a>
+										<ul class="dropdown-menu">
+											<li><a href="shop.html">Our Products</a></li>
+											<li><a href="single-product.html">Product Details</a></li>
+											<li><a href="shop-cart.html">Shopping Cart</a></li>
+											<li><a href="shop-checkout.html">Shopping Checkout</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="buy.html" class="nav-link">Coin</a>
+										<ul class="dropdown-menu">
+											<li><a href="buy.html">Buy & Sell</a></li>
+											<li><a href="data.html">Analyze</a></li>
+											<li><a href="wallet.html">wallet</a></li>
+											<li><a href="exchange.html">Exchange</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="blog.html" class="nav-link">News</a>
+										<ul class="dropdown-menu">
+											<li><a href="blog.html">Latest News</a></li>
+											<li><a href="single-blog.html">Single News</a></li>
+										</ul>
+									</li> -->
+									<li><a href="pages/contact.html" class="nav-link">Contact</a></li>
+								</ul>
+							</nav>
+						</div>
+						<div class="col-lg-3 d-none d-lg-block d-md-none text-right pr-0">
+							<!-- <form class="navbar-form">
+								<div class="form-group">
+									<input class="form-control" name="search" value="Search here..." type="text">
+									<button type="submit" class="btn"><i class="fa fa-search-plus"></i></button>
+								</div>
+							</form> -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END NAVIGATION AREA -->	
 	</header>
 	<!-- END HEADER SECTION -->
 	
@@ -333,10 +397,12 @@
 							</div>
 							<div class="image-two">
 								<div class="image-two-logo">
-									<img class="img-fluid" src="assets/img/clients/7.png" alt="">
+									<img class="img-fluid" src="assets/img/bg/side.png" alt="" >
 								</div>
 								<div class="image-two-des">
-									<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illodrut inventore veritatis et quasi architecto beatae vitae dicta sunt. </p>
+									<p>Join the trading community with more than 1,260 clients in over 60 countries. We make trading easy and transparent for traders at all levels. Become a smarter and better trader with a globally regulated brokerage.</p>
+									
+									
 								</div>
 								<div class="image-two-rem text-right">
 									<a href="#"><i class="icofont icofont-long-arrow-right"></i></a>
@@ -544,7 +610,7 @@
                                     <p>Trading Made Easy</p>
                                 </div>
 							</a>
-                        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+                        	<p>Currency and cryptocurrency exchange services provided by PennyBroker Financial LLC (“PennyBroker Crypto”), a US Money Services Business registered with FinCEN. PennyBroker Financial LLC is not a broker dealer.Currency and cryptocurrency exchange services provided by PennyBroker Financial LLC (“PennyBroker Crypto”), a US Money Services Business registered with FinCEN. PennyBroker Financial LLC is not a broker dealer.</p>
                         </div>
                     </div>
                     <!-- End Widget -->

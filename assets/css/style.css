@@ -3287,7 +3287,7 @@ h3.widget-title:before {
 	position: absolute;
 	content: "";
 	display: block;
-	background: #2c5ef0;
+	/* background: #2c5ef0; */
 	height: 2px;
 	width: 70px;
 	margin: 12px 0;
